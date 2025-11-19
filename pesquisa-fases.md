@@ -29,3 +29,6 @@ Comece desenvolvendo um plano com casos de teste específicos que sua equipe pos
 <h2>Implantação</h2>
 
 Após os testes confirmarem que seu software atende a todos os requisitos e padrões necessários, sua organização estará pronta para oferecer a solução aos usuários finais. Comece compilando uma versão final do seu software e preparando o ambiente de produção, incluindo servidores, bancos de dados e configurações de rede. Em seguida, coordene recursos e agende tarefas — implemente estratégias de reversão que ajudem a reverter seu sistema para um estado anterior e estável caso surjam problemas — para garantir uma implantação tranquila.
+
+<h2>Referencias</h2>
+Site: https://www.microsoft.com/pt-br/power-platform/topics/phases-of-the-software-development-lifecycle
