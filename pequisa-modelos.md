@@ -12,6 +12,7 @@
 5. [Modelos Ágeis](#4-modelos-ágeis)
 6. [Modelo DevOps](#5-modelo-devops)
 7. [Conclusão](#conclusão)
+8. [Referências](#referências)
 
 ---
 
@@ -118,5 +119,15 @@ Não existe um modelo ideal para todos os projetos.
 A escolha depende do tamanho, complexidade e necessidades do cliente.  
 
 Atualmente, os **modelos Ágeis e DevOps** são os mais utilizados por sua rapidez e flexibilidade, enquanto **Cascata ou Espiral** ainda são úteis em projetos formais ou de grande porte.
+
+---
+
+# 📚 Referências
+
+1. Pressman, R. S. & Maxim, B. R. (2020). *Engenharia de Software – Uma Abordagem Profissional*. 9ª Edição. McGraw-Hill.  
+2. Sommerville, I. (2016). *Engenharia de Software*. 10ª Edição. Pearson.  
+3. Project Management Institute (PMI). *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*.  
+4. Agile Alliance. [https://www.agilealliance.org/agile101/](https://www.agilealliance.org/agile101/)  
+5. DevOps.com. [https://devops.com/](https://devops.com/)  
 
 ---
